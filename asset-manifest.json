@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dapp-nft-collection/static/css/main.7e21643a.chunk.css",
+    "main.js": "/dapp-nft-collection/static/js/main.3351437d.chunk.js",
+    "main.js.map": "/dapp-nft-collection/static/js/main.3351437d.chunk.js.map",
+    "runtime-main.js": "/dapp-nft-collection/static/js/runtime-main.49bc48b6.js",
+    "runtime-main.js.map": "/dapp-nft-collection/static/js/runtime-main.49bc48b6.js.map",
+    "static/js/2.d48f49d2.chunk.js": "/dapp-nft-collection/static/js/2.d48f49d2.chunk.js",
+    "static/js/2.d48f49d2.chunk.js.map": "/dapp-nft-collection/static/js/2.d48f49d2.chunk.js.map",
+    "index.html": "/dapp-nft-collection/index.html",
+    "static/css/main.7e21643a.chunk.css.map": "/dapp-nft-collection/static/css/main.7e21643a.chunk.css.map",
+    "static/js/2.d48f49d2.chunk.js.LICENSE.txt": "/dapp-nft-collection/static/js/2.d48f49d2.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.a8a75254.svg": "/dapp-nft-collection/static/media/twitter-logo.a8a75254.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49bc48b6.js",
+    "static/js/2.d48f49d2.chunk.js",
+    "static/css/main.7e21643a.chunk.css",
+    "static/js/main.3351437d.chunk.js"
+  ]
+}
